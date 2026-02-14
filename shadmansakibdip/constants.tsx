@@ -52,7 +52,7 @@ export const EXPERIENCE: Experience[] = [
   {
     id: 3,
     role: "Lecturer & Head of Department (ICT)",
-    company: "Ministry of Education / Kalaroa Govt. College",
+    company: "Ministry of Education",
     period: "Feb 2021 - Present",
     description: [
       "Overseeing development and execution of ICT policies and initiatives.",
@@ -150,8 +150,8 @@ export const SKILL_CATEGORIES: Skill[] = [
     category: "Software & Tools",
     items: [
       { name: "Power BI", level: 90 },
-      { name: "MS Excel", level: 92 },
-      { name: "SQL/RDBMS", level: 85 },
+      { name: "MS Office", level: 92 },
+      { name: "Adobe Creative Cloud", level: 85 },
       { name: "WordPress/Joomla", level: 80 }
     ]
   }
@@ -184,7 +184,7 @@ export const PROJECTS: Project[] = [
       "Digital literacy workshops and ICT fairs",
       "Accelerating SDG-4 achievement in education"
     ],
-    date: "2023 - Present"
+    date: " Feb 2023 - Present"
   }
 ];
 
