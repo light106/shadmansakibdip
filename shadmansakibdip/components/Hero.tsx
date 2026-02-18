@@ -133,7 +133,7 @@ const Hero: React.FC = () => {
         >
           <div className="relative w-72 h-72 md:w-96 md:h-96 rounded-full md:rounded-3xl overflow-hidden glass border-0 shadow-2xl ring-1 ring-white/10">
              <img 
-               src="src/shadmansakibdip/Dip1.jpg" 
+               src="github.com/light106/shadmansakibdip/tree/main/shadmansakibdip/Dip1.jpg" 
                alt="Shadman Sakib"
                className="w-full h-full object-cover"
              />
