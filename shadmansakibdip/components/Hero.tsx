@@ -133,7 +133,7 @@ const Hero: React.FC = () => {
         >
           <div className="relative w-72 h-72 md:w-96 md:h-96 rounded-full md:rounded-3xl overflow-hidden glass border-0 shadow-2xl ring-1 ring-white/10">
              <img 
-               src="https://scontent.fdac191-1.fna.fbcdn.net/v/t39.30808-6/537777777_778206338489101_6736540792337713938_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeE5lNY89sbA8SsCZi5AM7BtuyMmyloslG-7IybKWiyUb4WguyncWCya2gr6ggBFvCoEgQEg_pUFAup0tqSXzM_f&_nc_ohc=a_1vEFWQ7MMQ7kNvwHVeFAM&_nc_oc=Adkw1bwVjw_WrDkUEumJ8jyk2y5J9H6sWw2G0MpOO10WBsSN_VO_5weenv0vg36A5Lo&_nc_zt=23&_nc_ht=scontent.fdac191-1.fna&_nc_gid=d10ssJro1AdRKVLuL3jsXA&oh=00_AftJqpRX5ex99lXUwC7k596RKYUbk1F8S0bOXlmngvOMeQ&oe=69940CF5" 
+               src="https://drive.google.com/file/d/1Zq62ryYdfxui_Q8c7emX372i4ChBmqHR/view" 
                alt="Shadman Sakib"
                className="w-full h-full object-cover"
              />
