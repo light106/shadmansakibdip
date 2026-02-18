@@ -103,7 +103,7 @@ const Hero: React.FC = () => {
               Get In Touch
             </a>
             <a 
-              href="https://github.com/light106/shadmansakibdip/blob/4f5db8a11f5f2eaa5b21e332410ff790e0ba2f9f/shadmansakibdip/Shadman_Sakib_Resume.pdf"
+              href="/Shadman_Sakib_Resume.pdf"
               download="Shadman_Sakib_Resume.pdf"
               className="px-8 py-3.5 rounded-full bg-white/5 border border-white/20 text-white font-medium hover:bg-white/10 transition-all flex items-center justify-center gap-2 hover:scale-105 backdrop-blur-sm"
             >
